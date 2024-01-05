@@ -1,1 +1,1 @@
-# HR-dasboard
+# Power BI dashboard
